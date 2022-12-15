@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: #7521c9;
+}
+.navbar{
+    padding: 0px 20px 0px 20px;
+}
+.navbar-brand img{
+    width: 120px;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.nav-link{
+    color:#fff;
+    font-size: 18px;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 25px;
+}
+.navbar-toggler{
+    border: 0;
+    outline: none;
+}
+.active-home{
+    color: black;
+}
+.nav-link:hover{
+    color: black;
+    transition-delay: 0.2s;
+}
